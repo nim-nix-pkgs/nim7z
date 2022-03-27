@@ -11,6 +11,7 @@
   inputs.src-nim7z-master.ref   = "refs/heads/master";
   inputs.src-nim7z-master.owner = "genotrance";
   inputs.src-nim7z-master.repo  = "nim7z";
+  inputs.src-nim7z-master.dir   = "";
   inputs.src-nim7z-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
